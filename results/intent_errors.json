@@ -1,0 +1,26 @@
+[
+  {
+    "text": "great",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.6482049822807312
+    }
+  },
+  {
+    "text": "perfect",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.9076427817344666
+    }
+  },
+  {
+    "text": ",mumbai",
+    "intent": "get_address",
+    "intent_prediction": {
+      "name": "location",
+      "confidence": 0.6981678605079651
+    }
+  }
+]
